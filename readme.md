@@ -2,7 +2,7 @@
 
 The [DeepMoji](https://github.com/bfelbo/DeepMoji]) project by @bfelbo et. al. uses a neural network trained on billions of tweets to select emoji that most accurately represent the emoji of input text. Their code is written in Python 2.7 using Tensorflow, and is available on [Github](https://github.com/bfelbo/DeepMoji]) 
 
-This repository is a docker container for a web service to call the neural network as an API.
+This repository is a docker container for a web service to call the neural network as an API. Forked.
 
 After deploying the container to `127.0.0.1`, you can send a POST request with sentences to find the emoji for.
 
